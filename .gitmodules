@@ -1,3 +1,6 @@
 [submodule "zindi/togo-fiber-optics-uptake-prediction-challenge"]
 	path = zindi/togo-fiber-optics-uptake-prediction-challenge
 	url = https://github.com/yehoshua0/togo-fiber-optics-uptake-prediction-challenge.git
+[submodule "kaggle/the-3lc-cotton-weed-detection-challenge"]
+	path = kaggle/the-3lc-cotton-weed-detection-challenge
+	url = https://github.com/yehoshua0/the-3lc-cotton-weed-detection-challenge.git
