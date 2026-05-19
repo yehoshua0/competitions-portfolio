@@ -1,0 +1,3 @@
+[submodule "zindi/togo-fiber-optics-uptake-prediction-challenge"]
+	path = zindi/togo-fiber-optics-uptake-prediction-challenge
+	url = https://github.com/yehoshua0/togo-fiber-optics-uptake-prediction-challenge.git
