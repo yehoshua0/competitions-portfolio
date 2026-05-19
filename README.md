@@ -31,17 +31,16 @@ Previous portfolio can be found [here](https://github.com/yehoshua0/y_datascienc
 
 <p align="center">
   <!-- Place your certificates in the /certificates folder and reference them here! -->
-  <img src="./certificates/yehoshua-MPEG-G Microbiome Classification Challenge.png" width="220" height="150" alt="Zindi certificate">
   <img src="./certificates/Jack517-Togo Fiber Optics Uptake Prediction Challenge.png" width="220" height="150" alt="Zindi certificate">
-  <!-- <img src="./certificates/3LC CottonWeed Detection Challenge Certificate_AYITEY Kodjo Josué_page-0001.jpg" width="220" height="150" alt="Kaggle certificate"> -->
+  <img src="./certificates/3LC CottonWeed Detection Challenge Certificate_AYITEY Kodjo Josué_page-0001.jpg" width="220" height="150" alt="Kaggle certificate">
 </p>
 
 ## 🏆 Featured Competitions
 
-| Competition                                                                   | Domain | Platform | Core Tech                 | Highlights                                              |
-| :---------------------------------------------------------------------------- | :----- | :------- | :------------------------ | :------------------------------------------------------ |
-| **[Telco Troubleshooting](./The%20AI%20Telco%20Troubleshooting%20Challenge)** | NLP    | Zindi    | Qwen2.5, SFT, LoRA        | Specialised edge-cloud LLM for network fault detection. |
-| **[Helios Corn Futures](./Helios%20Corn%20Futures%20Climate%20Challenge)**    | ML     | Kaggle   | Climate Data, Forecasting | Climate challenge focused on commodity futures (WIP).   |
+| Competition                                                                                       | Domain | Platform | Core Tech                       | Highlights                                                       |
+| :------------------------------------------------------------------------------------------------ | :----- | :------- | :------------------------------ | :--------------------------------------------------------------- |
+| **[Togo Fiber Optics Uptake](./zindi/togo-fiber-optics-uptake-prediction-challenge)**             | ML     | Zindi    | Tabular, Gradient Boosting      | Predicting fiber optic adoption in Togo. Award-winning entry.    |
+| **[3LC.AI Cotton Weed Detection](./kaggle/the-3lc-cotton-weed-detection-challenge)**              | CV     | Kaggle   | Object Detection, 3LC tooling   | Cotton-field weed detection. Featured in 3LC.AI winners post.    |
 
 ---
 
@@ -91,4 +90,4 @@ Most projects use a standardized Python environment.
 
 ---
 
-_Last Updated: 2026-02-02_
+_Last Updated: 2026-05-19_
