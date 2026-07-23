@@ -6,8 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Portfolio aggregator for AI/ML competition entries (Zindi, Kaggle). Root repo contains **no code itself** — each competition lives in its own standalone Git repo, pulled in as submodule under `zindi/` or `kaggle/`. Root holds only:
 
-- `README.md` — portfolio landing page (featured competitions, achievements, links)
-- `certificates/` — competition certificate images
+- `README.md` — portfolio landing page (featured competitions, achievements, "They Talked About Me" press links)
+- `certificates/` — competition certificate images (12 files: 10 Zindi, 2 Kaggle)
 - `img/` — README assets (header, medal SVGs)
 - `.gitmodules` — submodule registry
 
@@ -15,13 +15,7 @@ Portfolio aggregator for AI/ML competition entries (Zindi, Kaggle). Root repo co
 
 - `zindi/togo-fiber-optics-uptake-prediction-challenge`
 - `kaggle/the-3lc-cotton-weed-detection-challenge`
-
-## Current certificates
-
-- `Jack517-Togo Fiber Optics Uptake Prediction Challenge.png`
-- `3LC CottonWeed Detection Challenge Certificate_AYITEY Kodjo Josué_page-0001.jpg`
-
-Note: 9 older Zindi certificates were removed (Amini GeoFM, Amini Soil, CGIAR Root Volume, GEOAI Cropland, Ghana Indigenous Intel, Kenya Clinical Reasoning, Lacuna Solar, MPEG-G Microbiome, MPEG-G Dialogue). Do not re-link to deleted cert filenames in README.
+- `kaggle/3lc-mvdc`
 
 ## Working with submodules
 
@@ -49,3 +43,5 @@ When editing inside a submodule directory, the working tree belongs to that subm
 ## Root-level edits
 
 Most root-repo changes are documentation: README updates, new certificate images, medal counts, new "They Talked About Me" entries. No build, lint, or test pipeline at this level — submodules carry their own tooling and `requirements.txt`.
+
+Certificate filenames contain spaces and accented characters (e.g. `Josué`) — quote paths in shell commands and URL-encode nothing in README (relative `<img src>` with spaces works on GitHub).

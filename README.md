@@ -32,7 +32,7 @@ Previous portfolio can be found [here](https://github.com/yehoshua0/y_datascienc
 <p align="center">
   <!-- Place your certificates in the /certificates folder and reference them here! -->
   <img src="./certificates/Jack517-Togo Fiber Optics Uptake Prediction Challenge.png" width="220" height="150" alt="Zindi certificate">
-  <img src="./certificates/3LC CottonWeed Detection Challenge Certificate_AYITEY Kodjo Josué_page-0001.jpg" width="220" height="150" alt="Kaggle certificate">
+  <img src="./certificates/3LC Multi-Vehicle Detection ChallengeCertificate_Second Place.png" width="220" height="150" alt="Kaggle certificate">
 </p>
 
 ## 🏆 Featured Competitions
@@ -40,7 +40,7 @@ Previous portfolio can be found [here](https://github.com/yehoshua0/y_datascienc
 | Competition                                                                                       | Domain | Platform | Core Tech                       | Highlights                                                       |
 | :------------------------------------------------------------------------------------------------ | :----- | :------- | :------------------------------ | :--------------------------------------------------------------- |
 | **[Togo Fiber Optics Uptake](./zindi/togo-fiber-optics-uptake-prediction-challenge)**             | ML     | Zindi    | Tabular, Gradient Boosting      | Predicting fiber optic adoption in Togo. Award-winning entry.    |
-| **[3LC.AI Cotton Weed Detection](./kaggle/the-3lc-cotton-weed-detection-challenge)**              | CV     | Kaggle   | Object Detection, 3LC tooling   | Cotton-field weed detection. Featured in 3LC.AI winners post.    |
+| **[3LC Multi-Vehicle Detection](./kaggle/3lc-mvdc)**                                              | CV     | Kaggle   | Data-centric AI, YOLOv8n, 3LC   | Rank 14/192 (mAP@0.5 0.92016). [Live Streamlit demo](https://mvdc-heoshua.streamlit.app). |
 
 ---
 
@@ -90,4 +90,4 @@ Most projects use a standardized Python environment.
 
 ---
 
-_Last Updated: 2026-05-19_
+_Last Updated: 2026-07-23_
