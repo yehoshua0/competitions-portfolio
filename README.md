@@ -23,16 +23,31 @@ Previous portfolio can be found [here](https://github.com/yehoshua0/y_datascienc
 
 ## 📜 Top Achievement Certificates
 
-  <p align="left">
-    <a href="./certificates/">
-      See more here...
-    </a>
-  </p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="./certificates/Jack517-Togo%20Fiber%20Optics%20Uptake%20Prediction%20Challenge.png">
+        <img src="./certificates/Jack517-Togo Fiber Optics Uptake Prediction Challenge.png" width="360" alt="Togo Fiber Optics certificate">
+      </a>
+      <br><br>
+      <b>🥉 3rd Place — Togo Fiber Optics Uptake Prediction</b>
+      <br>
+      <sub>🇹🇬 Zindi · Ministry of Digital Economy (Togo) · June 2024</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="./certificates/3LC%20Multi-Vehicle%20Detection%20ChallengeCertificate_Second%20Place.png">
+        <img src="./certificates/3LC Multi-Vehicle Detection ChallengeCertificate_Second Place.png" width="360" alt="3LC Multi-Vehicle Detection certificate">
+      </a>
+      <br><br>
+      <b>🥈 2nd Place — 3LC Multi-Vehicle Detection</b>
+      <br>
+      <sub>🚗 Kaggle · 3LC.AI · June 2026</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <!-- Place your certificates in the /certificates folder and reference them here! -->
-  <img src="./certificates/Jack517-Togo Fiber Optics Uptake Prediction Challenge.png" width="220" height="150" alt="Zindi certificate">
-  <img src="./certificates/3LC Multi-Vehicle Detection ChallengeCertificate_Second Place.png" width="220" height="150" alt="Kaggle certificate">
+  <a href="./certificates/"><b>🗂️ Browse all 12 certificates →</b></a>
 </p>
 
 ## 🏆 Featured Competitions
@@ -40,7 +55,7 @@ Previous portfolio can be found [here](https://github.com/yehoshua0/y_datascienc
 | Competition                                                                                       | Domain | Platform | Core Tech                       | Highlights                                                       |
 | :------------------------------------------------------------------------------------------------ | :----- | :------- | :------------------------------ | :--------------------------------------------------------------- |
 | **[Togo Fiber Optics Uptake](./zindi/togo-fiber-optics-uptake-prediction-challenge)**             | ML     | Zindi    | Tabular, Gradient Boosting      | Predicting fiber optic adoption in Togo. Award-winning entry.    |
-| **[3LC Multi-Vehicle Detection](./kaggle/3lc-mvdc)**                                              | CV     | Kaggle   | Data-centric AI, YOLOv8n, 3LC   | Rank 14/192 (mAP@0.5 0.92016). [Live Streamlit demo](https://mvdc-heoshua.streamlit.app). |
+| **[3LC Multi-Vehicle Detection](./kaggle/3lc-mvdc)**                                              | CV     | Kaggle   | Data-centric AI, YOLOv8n, 3LC   | 🥈 2nd Place (mAP@0.5 0.92016). [Live Streamlit demo](https://mvdc-heoshua.streamlit.app). |
 
 ---
 
